@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.anagumaeisa.wisconsineisa">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_wi_eisa_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_wi_eisa_logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutAE"
+            android:label="About Anaguma Eisa"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AboutOTDW"
+            android:label="About OTDW"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".HistoryAE"
+            android:label="History of Anaguma Eisa"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".HistoryOTDW"
+            android:label="History of OTDW"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".music_ui.MusicMainMenu"
+            android:label="Music"
+            android:parentActivityName=".MainActivity" />
+
+        <activity android:name=".music_ui.MusicPlayerActivity" />
+
+        <service
+            android:name=".musicservice.MusicService"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.media.browse.MediaBrowserService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

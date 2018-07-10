@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Wisconsin Eisa</string>
+    <string name="title_anaguma">Anaguma Eisa</string>
+
+    <string-array name="main_menu_anaguma">
+        <item>About</item>
+        <item>History</item>
+        <item>Events</item>
+        <item>Photos</item>
+        <item>Videos</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string name="title_otdw">OTDW</string>
+
+    <string-array name="main_menu_otdw">
+        <item>About</item>
+        <item>History</item>
+        <item>Practices</item>
+        <item>Performances</item>
+        <item>Photos</item>
+        <item>Videos</item>
+        <item>Contact</item>
+    </string-array>
+
+    <string name="title_members">Members</string>
+
+    <string-array name="main_menu_members">
+        <item>Music</item>
+        <item>Practice Videos</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="aboutAE">Anaguma Eisa is a student organization at the University of Wisconsin-Madison that performs eisa, a traditional Okinawan folk dance from the Ryukyu Islands in southern Japan. Their performances excite viewers with a cultural fusion of dance, drumming, martial arts, and both traditional and contemporary Okinawan music. Their mission is to encourage people of all ages and abilities to develop their full potential through cultural understanding and performing arts. They share this mission through a variety of performances and workshops, including Asia Fest of Milwaukee, Madison Public Library, and the National Cherry Blossom Festival in Washington DC, which attracts over 1.5 million visitors each year.</string>
+    <string name="historyAE">Anaguma Eisa is a student organization at the University of Wisconsin-Madison that performs eisa, a traditional Okinawan folk dance from the Ryukyu Islands in southern Japan. The group was founded by Lucas Schneider during his Freshman year on campus. Lucas fell in love with eisa while participating with the Okinawan Taiko Drummers of Wisconsin in high school. After graduating, he wanted to continue training the Okinawan art, and thus founded Anaguma Eisa after he started university.\n\nAnaguma Eisa has held many performances and workshops in the Madison community, in the state of Wisconsin, and even across the country. Each event is an effort to strengthen their mission, while exciting viewers with a cultural fusion of dance, drumming, martial arts, and both traditional and contemporary Okinawan music.Three types of drums are used in eisa performance: the odaiko (大太鼓, lit. “big drum”), a large barrel drum, the shime-daiko (締め太鼓, lit. “tightened drum”) a medium sized drum similar to those used in Noh theater, and the paranku (パーランクー), a small hand drum similar to those used in Buddhist ceremonies.\n\nAnaguma Eisa encourages people of all ages and abilities to develop their full potential through cultural understanding and performing arts. They strive to share this aspect of Okinawan culture while fostering cultural awareness. Previously, they have performed for Madison Public Library, Hostelling International, the Wisconsin Global Youth Summit, Asia Fest of Milwaukee, and the National Cherry Blossom Festival in Washington DC, which attracts over 1.5 million visitors each year.</string>
+
+    <string name="aboutOTDW">The Okinawan Taiko Drummers of Wisconsin (OTDW) is an Eisa group based out of West High School in Madison, Wisconsin. Eisa is a form of folk-dance specific to the Ryukyu Islands of southern Japan which fuses Okinawan music with elements of martial arts, dance, and drumming. The performers either play a large, barrel shaped drum (odaiko) which is worn by a sash over the shoulder, or a hand drum. The paranku, one of the hand drums, is small, round, and single faced. The shime-daiko is a two-faced hand drum tied together with rope, and is performed the most stylistically.\n\nOTDW began in 1997 at Shorewood Hills Elementary School after Director Heidi Hastings moved with her family to the Madison school district. The taiko group followed her kids though school until it found its permanent home as an after school club at West. Over the years, around 300 students have participated in the group and have performed in hundreds of performances. The majority of OTDW\'s performances are in South Central Wisconsin, however, since 2005 they have annually attended the National Cherry Blossom Festival in Washington D.C.</string>
+    <string name="historyOTDW">The Okinawan Taiko Drummers of Wisconsin (OTDW) began in February of 1996 at Rolling Hills Elementary School in San Francisco, California, under the instruction of Heidi Hastings. Heidi learned Eisa (Okinawan taiko drumming) while she and her family were living in Okinawa, Japan at Kadena Air Base in 1995. After watching Eisa festivals and performances by Ryukyukoku Matsuri Daiko (RMD), Heidi began asking around, hoping to learn some taiko drumming before she left the island. She was given the contact information of Akemi Martin who was in the process of organizing an American chapter of RMD at Kadena. Akemi made arrangements for several members from RMD to teach interested Americans at the Air Base once per week. Heidi liked Eisa so much that she decided to take what she had learned back to the United States with the promise that she would start a children’s group. Before leaving for the U.S., Heidi bought eight paranku (small drums) and bachi (drumsticks). She was also given some music on a cassette tape, a video of RMD performing several years prior, and one Matsuri Daiko uniform t–shirt as a going away present.\n\nAfter living in San Diego, California for five months, Heidi returned to Okinawa for a ten–day visit in November of 1995. Akemi Martin had made arrangements for American RMD members to perform with eight Okinawan RMD members. The Okinawan people were celebrating the second Uchinanchu Festival, which is held every five years and lasts for weeks. During this time, Okinawans living around the world were invited to a homecoming celebration. There, Heidi met Katsuko Kudaka Lee, who would later invite her to perform in the 1996 Olympic opening ceremonies in Atlanta, Georgia. This was the 100th anniversary of the modern olympics, and Katsuko-san was helping the Atlanta branch of RMD find a total of 100 performers for the ceremony.\n\nDuring Heidi\'s first year back in the U.S., her son, David, was enrolled as a second grader at Rolling Hills Elementary in San Diego (1995–96). The school had very limited funds, so they had to cut music, art, and physical education classes. David was put into a class of 78 students, led by two teachers in one room. In February of 1996, Heidi talked to the principal and offered to teach interested students the drumming she had learned in Okinawa. She also thought that other interested parents could teach dances they knew to the children. In the end there were four parents offering dances to the students. Twelve students chose taiko. The kids wore black sweatpants, white tennis shoes, black t–shirts, and pink head and waist sashes sewn by some of the parents, many of which are still used today.\n\nAfter performing in the 1996 Olympic opening ceremony, Heidi and her family moved to her hometown of Madison, Wisconsin. David was enrolled in the third grade at Shorewood Hills Elementary School, and Heidi’s daughter, Jenna, was enrolled in Kindergarten. In November, Heidi heard that Shorewood was having an international festival, for which she decided to start a taiko group at the elementary school. Eleven kids from David’s class were interested in performing as well as three kindergarteners, including Jenna. The kids performed Jitubidoi for the festival. Over the next few months, the group continued to practice new songs and was even invited to play at nearby schools. By the spring of 1998, the kids had learned five other songs and had made uniforms based on the uniform t–shirt given to Heidi in Okinawa.\n\nBy the 1999–2000 school year, most of the original group had graduated to Hamilton Middle School. Although some of them had continued taiko through middle school, by eighth grade most of them had either moved away, or started playing football and soccer. The group at Shorewood Hills became much larger and would continue to grow until Jenna’s class graduated in 2002.\n\nHeidi began teaching at West High School in 2000, and in 2001 she realized that the taiko club would have to be moved to West High if she hoped to continue it. Heidi brought in David, Jenna, and Jenna’s friends to perform at West to try to recruit members. By the 2002–2003 school year, the West group consisted of ten members, all of whom were international students and would either be graduating or moving out of the country within the next two years. The following year the West group had grown to fifteen members.\n\nIn 2005, Katsuko-san encouraged Heidi to take the group to Washington D.C. for the National Cherry Blossom Festival and Heidi has taken kids there ever since. Prior to the yearly D.C. trip, instructors from the Nakijin,Okinawa based Imajin Taiko have come to teach the students at West new songs, and to help them perfect their form. In the summer of 2008, Heidi organized a trip for twelve members and one parent to visit Nakijin for a taiko festival and for cultural immersion. Today, there are about 25 members in the group. Since the group became established at West, nearly 300 students have been a part of OTDW and have performed in hundreds of performances, mostly in South Central Wisconsin.</string>
+    <string name="title_activity_about_ae">AboutAE</string>
+    <string name="about_ae_photo_description">2018 Anaguma Eisa Group Photo</string>
+    <string name="about_otdw_photo_description">2018 OTDW Group Photo</string>
+    <string name="history_ae_photo_description">2015 Anaguma Eisa Group Photo</string>
+    <string name="history_otdw_photo_description">Heidi Hastings and Kids in 1997</string>
+
+    <!-- MUSIC PLAYER -->
+    <string name="label_stop">Stop</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_play_pause">Play and pause toggle</string>
+    <string name="label_previous">Previous track</string>
+    <string name="label_next">Next track</string>
+
+    <!-- MUSIC ALBUMS -->
+    <string name="album_sosaku_geidan_rekiosu">Sōsaku Geidan Rekiosu</string>
+    <string name="album_mapiroma">Mapirōma</string>
+
+    <!-- MUSIC ARTISTS -->
+    <string name="artist_hidekatsu">Hidekatsu</string>
+
+    <!-- MUSIC TITLES -->
+    <string name="agechikuten">Agechikuten</string>
+    <string name="beni_hachi">Beni Hachi</string>
+    <string name="do_hya_do">Do-Hya-Do</string>
+    <string name="kaze_no_yubito">Kaze no Yūbito</string>
+</resources>

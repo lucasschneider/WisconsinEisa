@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ウィスコンシン・エイサー</string>
+    <string name="title_anaguma">アナグマ・エイサー</string>
+
+    <!-- MUSIC ALBUMS -->
+    <string name="album_sosaku_geidan_rekiosu">創作芸団レキオス</string>
+    <string name="album_mapiroma">マピローマ</string>
+
+    <!-- MUSIC ARTISTS -->
+    <string name="artist_hidekatsu">日出克</string>
+
+    <!-- MUSIC TITLES -->
+    <string name="agechikuten">揚作田</string>
+    <string name="beni_hachi">紅八</string>
+    <string name="do_hya_do">ドーヒャードー</string>
+    <string name="kaze_no_yubito">風の結人</string>
+</resources>
